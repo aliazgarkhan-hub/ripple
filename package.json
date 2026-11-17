@@ -1,0 +1,10 @@
+{
+  "name": "ripple",
+  "version": "0.1.0",
+  "description": "What-if planner for small project teams: change one assumption and see how the schedule ripples.",
+  "private": true,
+  "scripts": {
+    "test": "node tests/scheduler.test.js",
+    "start": "npx serve ."
+  }
+}
